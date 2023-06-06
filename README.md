@@ -15,7 +15,9 @@ blender建模
 购买切割材料  
 物理场景搭建  
 ue5特效（粒子的雪和物体mesh and建地面）  
-建模mesh的粒子特效，分布不均匀。
+建模mesh的粒子特效，分布不均匀。 
+![Niagara mesh？不均匀](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/8cc0b26e-cca7-4f08-bdf3-4d5d3321b207)
+
 视觉效果调整美化
 
 ## Week4
