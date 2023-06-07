@@ -3,8 +3,8 @@ Mypart
 ## Week1
 本周主要是建立作品的背景  
 
-Inspiration:
-我通过观察人们会在物理世界留下很多印记，这些痕迹大致是人体各个部位的形态。 
+Inspiration:  
+我通过观察发现人们会在物理世界留下很多印记，这些痕迹大致是人体各个部位的形态。 但这些形态都会随着时间的变化，而逐渐的消失。
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 
 确定了My topic is 
