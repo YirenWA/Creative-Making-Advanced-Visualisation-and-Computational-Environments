@@ -20,7 +20,8 @@ blender建模
 
 
 ## Week3
-购买计算切割材料  
+购买计算切割材料 
+确保框架可以立柱，并与2前后与上下空间对应进行了测试
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
 
 物理场景搭建  
