@@ -20,7 +20,9 @@ blender建模
 
 
 ## Week3
-购买切割材料  
+购买计算切割材料  
+![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
+
 物理场景搭建  
 ue5特效（粒子的雪和物体mesh and建地面）  
 建模mesh的粒子特效，分布不均匀。 
