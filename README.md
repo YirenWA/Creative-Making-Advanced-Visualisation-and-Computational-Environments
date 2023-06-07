@@ -1,5 +1,5 @@
 # Creative-Making-Advanced-Visualisation-and-Computational-Environments
-Mypart
+## My Part
 ## Week1
 本周主要是建立作品的背景，确立其主题，形式，内容。  
 
@@ -7,20 +7,19 @@ Inspiration:
 我通过观察发现人们会在物理世界留下很多印记，这些痕迹大致是人体各个部位的形态。 但这些形态都会随着时间的变化，而逐渐的消失。
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 
-确定了My topic is 
-The inspiration comes from 
-In my view, 
+确定了My topic is  
+The inspiration comes from  
+In my view,  
 
 About Work:
-It is an interactive gameinstallation.
+It is an interactive game installation.
 
 
 
 
 这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，我们的存在将被记录，记忆凝固成数码的印记。  
-
 通过物理空间的置景，来引导人们做出不一样的动作，在物理世界用身体去探索数字世界，在数字空间中留下印记，占满整个"世界“。印记也会随时间有所消散。  
-印记options：沙子，雪，泡沫
+印记options：沙子，雪，泡沫，苔藓，藤蔓  
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
 Initial ideas for the Structure:
