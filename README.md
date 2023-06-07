@@ -9,7 +9,12 @@
 ## Week2
 小组讨论，确定设备和方案  
 blender建模  
-对应数字世界的物理场景建模构思  
+![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
+
+对应数字世界的物理场景建模构思（大致框架）  
+![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
+
+
 
 ## Week3
 购买切割材料  
