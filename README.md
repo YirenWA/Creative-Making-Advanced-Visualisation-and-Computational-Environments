@@ -1,38 +1,36 @@
 # Creative-Making-Advanced-Visualisation-and-Computational-Environments
 Mypart
 ## Week1
-本周主要是建立作品的背景  
+本周主要是建立作品的背景，确立其主题，形式，内容。  
 
 Inspiration:  
 我通过观察发现人们会在物理世界留下很多印记，这些痕迹大致是人体各个部位的形态。 但这些形态都会随着时间的变化，而逐渐的消失。
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 
 确定了My topic is 
-
-Background:
 The inspiration comes from 
 In my view, 
 
 About Work:
-It is an interactive installation.
+It is an interactive gameinstallation.
 
-Initial ideas for the Structure:
 
-（通过小组讨论）  
 
 
 这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，我们的存在将被记录，记忆凝固成数码的印记。  
 
-通过物理空间的置景，来引导人们做出不一样的动作，在物理世界用身体去探索数字世界，在数字空间中留下印记，占满整个"世界“。印记也会随时间有所消散。
-数字世界和场景构建  
-在物体的视觉上采有超现实主义，看似无关的物体都有连接  
+通过物理空间的置景，来引导人们做出不一样的动作，在物理世界用身体去探索数字世界，在数字空间中留下印记，占满整个"世界“。印记也会随时间有所消散。  
+Initial ideas for the Structure:
+数字世界场景构建初步构想  
+在物体的视觉上具有一定的超现实主义，画面里看似无关的物体都有连接。纯白的记忆世界，飘渺模糊。 并具有一定形式感的观念构图，正平视角。  
 物理世界的场景构建   
 对应数字空间的物理空间形式的草图（玩法）  
 ![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
 
 
 ## Week2
-通过小组讨论确定使用的技术设备，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
+本周主要是通过小组讨论确定使用的技术设备  
+在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
 blender建模  
 我构建了一个数字世界
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
@@ -43,7 +41,7 @@ blender建模
 
 
 ## Week3
-购买计算切割材料 
+购买计算切割材料  
 由于物理空间的复杂性和可玩性，所以要确保框架具有稳定结构，并在前后与上下空间的对应进行了测试
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
 
