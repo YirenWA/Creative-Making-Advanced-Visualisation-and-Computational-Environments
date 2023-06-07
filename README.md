@@ -3,7 +3,8 @@
 灵感 小组讨论  
 方案  
 草图（多个方案）  
-![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/b867793d-54ea-4f0e-b319-03a54c760843)
+![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
+
   
 数字世界和物理世界的场景构建  
 看似无关的物体都有链接
