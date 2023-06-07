@@ -20,6 +20,9 @@ It is an interactive gameinstallation.
 这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，我们的存在将被记录，记忆凝固成数码的印记。  
 
 通过物理空间的置景，来引导人们做出不一样的动作，在物理世界用身体去探索数字世界，在数字空间中留下印记，占满整个"世界“。印记也会随时间有所消散。  
+印记options：沙子，雪，泡沫
+![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
+
 Initial ideas for the Structure:
 数字世界场景构建初步构想  
 在物体的视觉上具有一定的超现实主义，画面里看似无关的物体都有连接。纯白的记忆世界，飘渺模糊。 并具有一定形式感的观念构图，正平视角。  
