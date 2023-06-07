@@ -23,7 +23,7 @@ It is an interactive gameinstallation.
 Initial ideas for the Structure:
 数字世界场景构建初步构想  
 在物体的视觉上具有一定的超现实主义，画面里看似无关的物体都有连接。纯白的记忆世界，飘渺模糊。 并具有一定形式感的观念构图，正平视角。  
-物理世界的场景构建   
+物理世界的场景构建，绘制草图   
 对应数字空间的物理空间形式的草图（玩法）  
 ![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
 
