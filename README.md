@@ -1,8 +1,11 @@
 # Creative-Making-Advanced-Visualisation-and-Computational-Environments
 Mypart
 ## Week1
-灵感（小组讨论）  
-方案  
+Iinsp（小组讨论）  
+Topic  
+Background  
+
+
 人们会在物理世界留下很多印记，这些痕迹大致是人体各个部位的形态。 
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 
