@@ -19,9 +19,9 @@ However, these imprints will gradually fade with time, so it is essential to lea
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
 ### Initial ideas for the Structure:
-数字世界场景构建初步构想：具有一定形式感的观念画面，可能采用正视的视角。在视觉上希望呈现单一颜色的记忆世界，带给参与者飘渺模糊的视觉感受。  
-印记options：构成数字空间的材质要能够帮助参与者思考时间的渐变，以及它对世界的塑造。需要突显时间的流逝和对事物的影响。
-沙子，雪，泡沫，苔藓，藤蔓  
+Preliminary idea for Digital World Scene Construction: A conceptual visual composition with a sense of form, possibly using a frontal perspective. Visually, I want to present a memory world with a single color, providing participants with a ethereal and blurry visual experience.
+The materials composing the digital space should assist participants in contemplating the gradual passage of time and its shaping influence on the world. It is important to highlight the flow of time and its impact on objects.    
+印记options：沙子，雪，泡沫，苔藓，藤蔓  
 
 物理世界的场景构建（绘制草图）  
 思考人们在空间中的可玩性，能够对应数字空间的结构（玩法），像人间游乐场  
