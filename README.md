@@ -1,5 +1,4 @@
 # Creative Making-Advanced Visualisation and Computational Environments
-My Part
 ## WEEK1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
@@ -33,7 +32,7 @@ Consider the playability of the space for people and its correspondence to the s
 This week was mainly focused on determining the technical equipment to be used through group discussions. And I also started with the initial design of the two spaces.   
 
 运用blender建模：  
-我构建了一个数字世界。在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。我选用了什么构成了画面,
+我构建了一个数字世界。画面具有一定的超现实主义，体现了时间的风蚀感。我选用了建筑，屏幕，阶梯，大门，帘子，凳子等物体构成了画面,都和人们的生活息息相关。画面里的一切可以是漂浮的，歪扭的，看似无关的物体都有连接构成了一个循环。像是一个失衡的人间游乐城。
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
 In the group discussion, the team member provided technical solutions to my proposed idea, and we ultimately decided to train a neural network to utilize cameras for recognizing human interactions within Unreal Engine.  
