@@ -21,12 +21,11 @@ However, these imprints will gradually fade with time, so it is essential to lea
 Preliminary idea for Digital World Scene Construction: A conceptual visual composition with a sense of form, possibly using a frontal perspective. Visually, I want to present a memory world with a single color, providing participants with a ethereal and blurry visual experience.
 The materials composing the digital space should assist participants in contemplating the gradual passage of time and its shaping influence on the world. It is important to highlight the flow of time and its impact on objects.    
 
-印记options：选择在这次的项目中做一种印记，以后可以做一系列的游戏画面。  
-沙子：最能代表时间，聚在一起是形态（痕迹），散开就随风（随时间）散去  
-雪：随着时间融化，也随着时间堆积。看似松软的质感，握在一起是有力量的。被瞬间留下痕迹的时候会被带走部分，留下来却的是坚硬的部分。  
-泡沫：  
+印记options：在这次的项目中选择一种载体去做印记，以后可以做一系列的游戏画面。  
+雪：随着时间堆积，也随着时间融化。看似松软的质感，在受到外力挤压时是有力量的。被瞬间留下痕迹的时候会被带走部分，留下来却的是坚硬的部分。冻结时间的感觉。  
+沙子：最能代表时间，聚在一起是形态（痕迹），散开就随着风，时间散去。  
 苔藓：生长缓慢，它需要时间才能形成。时间是逐渐积累的，像苔藓一样在事物上留下痕迹。所以苔藓可以象征时间的延续、过程的积累以及岁月的沉淀。  
-藤蔓：在事物上生长、延伸并留下痕迹。  
+藤蔓，泡沫等等。  
 
 Physical space scene construction (sketching)  
 Consider the playability of the space for people and its correspondence to the structure of the digital space. Overall, it should resemble a "childlike" playground.  
