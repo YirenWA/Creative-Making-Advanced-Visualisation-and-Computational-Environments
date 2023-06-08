@@ -1,16 +1,16 @@
-# Creative Making Advanced Visualisation and Computational Environments
-## My Part
+# Creative Making-Advanced Visualisation and Computational Environments
+My Part
 ## Week1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
-Inspiration:  
+### Inspiration:  
 The inspiration comes from daily life. Through observation, I have noticed that people leave many imprints in the physical world. Actions such as sitting, stepping, touching, and others leave visible traces in the physical environment. These traces roughly outline the contours and shapes of different parts of the human body. However, these forms also gradually disappear over time.  
 In those intangible moments, can the imprints left by people condense within time?  
 
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat  a sensory game about the theme.  
 
-About Work:  
+### About Work:  
 It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
 
 Through the structure of physical spaces, participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space. In this digital world, there are no people or their shadows. Only the imprints of human remain.  
@@ -18,7 +18,7 @@ However, these imprints will gradually fade with time, so it is essential to lea
 
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
-Initial ideas for the Structure:
+### Initial ideas for the Structure:
 数字世界场景构建初步构想  
 具有一定形式感的观念构图，认为正平视角。纯白的记忆世界，飘渺模糊。  
 印记options：构成数字空间的材质要能够帮助参与者思考时间的渐变，以及它对世界的塑造。需要突显时间的流逝和对事物的影响。
