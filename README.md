@@ -46,6 +46,7 @@ I measured the different heights at which people sit, stand, and reach, and ulti
 
 
 ## WEEK3
+本周主要是搭建了物理空间，并将数字空间部分进行了视觉上的美化。  
 购买计算切割材料  
 由于物理空间的复杂性和可玩性，所以要确保框架具有稳定结构，并在前后与上下空间的对应进行了测试
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
