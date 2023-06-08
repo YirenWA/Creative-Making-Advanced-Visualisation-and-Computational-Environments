@@ -1,26 +1,35 @@
 # Creative Making Advanced Visualisation and Computational Environments
 ## My Part
 ## Week1
-本周主要是建立作品的背景，确立其主题，形式和内容。  
+本周主要是建立作品的背景，确立其主题，内容和形式。  
+This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
 Inspiration:  
-The inspiration comes from 日常生活。我通过观察发现：人们会在物理世界留下很多印记，人们的行为例如坐，踩，摸等会给物理世界带来可视的痕迹。这些痕迹大致是人体各个部位的轮廓形态。 但这些形态都会随着时间的变化逐渐消失。  
-在那些无形的时刻，人们留下的印记能否凝结于时间？
+灵感来源于日常生活。我通过观察发现：人们会在物理世界留下很多印记，人们的身体行为例如坐，踩，摸等等会给物理世界带来可视的痕迹。这些痕迹大致是人体各个部位的轮廓形态。 但这些形态也会随着时间的变化逐渐消失。  
+在那些无形的时刻，人们留下的印记能否凝结于时间？   
+The inspiration comes from daily life. Through observation, I have noticed that people leave many imprints in the physical world. Actions such as sitting, stepping, touching, and others leave visible traces in the physical environment. These traces roughly outline the contours and shapes of different parts of the human body. However, these forms also gradually disappear over time.  
+In those intangible moments, can the imprints left by people condense within time?
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 从这个生活中的发现发散思维，通过小组讨论确定了主题，做一个体感游戏。   
+From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat  a sensory game about the theme.  
 
 About Work:  
 It is an interactive game installation.
 这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，人们的存在将被记录，记忆凝固成数码的印记。  
 形式：通过物理空间的置景，来引导人们在真实世界用身体行为去探索数字世界，并在数字空间中留下印记。 在个世界中没有人，也没有人的影子。留存下的只有人的“印记”。
 但印记也会随时间有所消散，所以要在有限的无形时间内留下存在的印记。  
+It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
+
+Through the structure of physical spaces, participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space. In this digital world, there are no people or their shadows. Only the imprints of human remain.  
+However, these imprints will gradually fade with time, so it is essential to leave lasting imprints within the limited intangible time.  
+
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
 Initial ideas for the Structure:
 数字世界场景构建初步构想  
-印记options：  
+在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 并具有一定形式感的观念构图，认为正平视角。  纯白的记忆世界，飘渺模糊。  
+印记options：构成数字空间的材质要能够帮助参与者思考时间的渐变，以及它对世界的塑造。需要突显时间的流逝和对事物的影响。
 沙子，雪，泡沫，苔藓，藤蔓  
-在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 并具有一定形式感的观念构图，正平视角。  纯白的记忆世界，飘渺模糊。
 
 物理世界的场景构建（绘制草图）  
 思考人们在空间中的可玩性，能够对应数字空间的结构（玩法），像人间游乐场  
