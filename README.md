@@ -1,6 +1,6 @@
 # Creative Making-Advanced Visualisation and Computational Environments
 My Part
-## Week1
+## WEEK1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
 ### Inspiration:  
@@ -19,8 +19,7 @@ However, these imprints will gradually fade with time, so it is essential to lea
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
 ### Initial ideas for the Structure:
-数字世界场景构建初步构想  
-具有一定形式感的观念构图，认为正平视角。纯白的记忆世界，飘渺模糊。  
+数字世界场景构建初步构想：具有一定形式感的观念画面，可能采用正视的视角。在视觉上希望呈现单一颜色的记忆世界，带给参与者飘渺模糊的视觉感受。  
 印记options：构成数字空间的材质要能够帮助参与者思考时间的渐变，以及它对世界的塑造。需要突显时间的流逝和对事物的影响。
 沙子，雪，泡沫，苔藓，藤蔓  
 
@@ -29,7 +28,7 @@ However, these imprints will gradually fade with time, so it is essential to lea
 ![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
 
 
-## Week2
+## WEEK2
 本周主要是通过小组讨论确定使用的技术设备，并开始对两个空间进行初步设计  
 在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
 blender建模：  
@@ -37,12 +36,12 @@ blender建模：
 在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
-对应数字世界的物理场景建模构思（大致框架）  
+延续第一周的想法，从可实现性上结合了第一个方案和第二个方案，对应数字世界的物理场景建模构思（大致框架）  
 ![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
 
 
 
-## Week3
+## WEEK3
 购买计算切割材料  
 由于物理空间的复杂性和可玩性，所以要确保框架具有稳定结构，并在前后与上下空间的对应进行了测试
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
@@ -54,7 +53,7 @@ unreal 特效（粒子做雪，物体mesh粒子，贴图texture绘图设计，�
 
 视觉效果调整美化
 
-## Week4
+## WEEK4
 调试  
 拍摄  
 视频剪辑
