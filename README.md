@@ -1,13 +1,13 @@
-# Creative-Making-Advanced-Visualisation-and-Computational-Environments
+# Creative Making Advanced Visualisation and Computational Environments
 ## My Part
 ## Week1
-本周主要是建立作品的背景，确立其主题，形式，内容。  
+本周主要是建立作品的背景，确立其主题，形式和内容。  
 
 Inspiration:  
 The inspiration comes from 日常生活。我通过观察发现：人们会在物理世界留下很多印记，人们的行为例如坐，踩，摸等会给物理世界带来可视的痕迹。这些痕迹大致是人体各个部位的轮廓形态。 但这些形态都会随着时间的变化逐渐消失。  
 在那些无形的时刻，人们留下的印记能否凝结于时间？
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
-通过小组讨论确定了主题   
+从这个生活中的发现发散思维，通过小组讨论确定了主题，做一个体感游戏。   
 
 About Work:  
 It is an interactive game installation.
