@@ -36,7 +36,8 @@ blender建模：
 在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
-延续第一周的想法，从可实现性上结合了第一个方案和第二个方案，对应数字世界的物理场景建模构思（大致框架）  
+在物理场景构造上，延续了第一周的初步想法，从可实现性上结合了第一个方案和第二个方案进行设计。对应前面数字世界建模的前后和上下关系设计了大致框架。    
+我丈量了人坐着，站着和伸手的不同高度，我构建了一个1.35*1.8*1.8m的空间。纵向空间上一共分为了三层。通过小组讨论认为前后关系的遮挡关系也会影响识别，所以结构上是一个递进的关系。
 ![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
 
 
