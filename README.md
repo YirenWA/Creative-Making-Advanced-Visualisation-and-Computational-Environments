@@ -2,14 +2,14 @@
 ## WEEK1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
-### Inspiration:  
+### Inspiration  
 The inspiration comes from daily life. Through observation, I have noticed that people leave many imprints in the physical world. Actions such as sitting, stepping, touching, and others leave visible traces in the physical environment. These traces roughly outline the contours and shapes of different parts of the human body. However, these forms also gradually disappear over time.  
 In those intangible moments, can the imprints left by people condense within time?  
 
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
 From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat  a sensory game about the theme.  
 
-### About Work:  
+### About Work  
 It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
 
 Through the structure of physical spaces, participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space. In this digital world, there are no people or their shadows. Only the imprints of human remain.  
@@ -17,33 +17,35 @@ However, these imprints will gradually fade with time, so it is essential to lea
 
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
-### Initial ideas for the Structure:
+### Initial ideas for the Structure
 Preliminary idea for Digital World Scene Construction: A conceptual visual composition with a sense of form, possibly using a frontal perspective. Visually, I want to present a memory world with a single color, providing participants with a ethereal and blurry visual experience.
 The materials composing the digital space should assist participants in contemplating the gradual passage of time and its shaping influence on the world. It is important to highlight the flow of time and its impact on objects.    
 
-印记options：在这次的项目中选择一种载体去做印记，以后可以做一系列的游戏画面。  
-雪：随着时间堆积，也随着时间融化。看似松软的质感，在受到外力挤压时是有力量的。被瞬间留下痕迹的时候会被带走部分，留下来却的是坚硬的部分。冻结时间的感觉。  
-沙子：最能代表时间，聚在一起是形态（痕迹），散开就随着风，时间散去。  
-苔藓：生长缓慢，它需要时间才能形成。时间是逐渐积累的，像苔藓一样在事物上留下痕迹。所以苔藓可以象征时间的延续、过程的积累以及岁月的沉淀。  
-藤蔓，泡沫等等。  
+#### Imprint options  
+Choose a material to build the digital world in this project, which can be used for a series of game scenes in the future.   
+Snow: It accumulates and melts with time. Its seemingly soft texture carries weight when subjected to external pressure. When instantly squeezed, it gives a sense of frozen time, leaving behind the harder parts.  
+Sand: Time is like sand, taking shape when gathered and getting scattered by the wind as time passes.  
+Moss: It grows slowly, requiring time to form. Therefore, moss can symbolize the continuity of time, the accumulation of processes, and the sedimentation of years.  
+Vines, bubbles, and more.  
 
-Physical space scene construction (sketching)  
-Consider the playability of the space for people and its correspondence to the structure of the digital space. Overall, it should resemble a "childlike" playground.  
+#### Physical space scene construction (sketch)  
 
-![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
+![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)  
+Consider the playability of the space for people and its correspondence to the structure of the digital space. Overall, it should resemble a "child" playground.  
 
 
 ## WEEK2
 This week was mainly focused on determining the technical equipment to be used through group discussions. And I also started with the initial design of the two spaces.   
 
-Using Blender for modeling:
+#### Using Blender for modeling  
 I created a digital world with a certain level of surrealism, capturing a sense of erosion over time. The composition includes elements such as buildings, screens, stairs, gates, curtains, and chairs, all closely related to human life. Everything in the scene can be floating, distorted, and seemingly unrelated objects, yet they are interconnected, forming a loop. This world resembles an unbalanced yet egalitarian amusement park for humans.  
 
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
 In the group discussion, the team member provided technical solutions to my proposed idea, and we ultimately decided to train a neural network to utilize cameras for recognizing human interactions within Unreal Engine.  
 
-In the construction of the physical scene, I have carried forward the preliminary ideas from the first week. Considering feasibility, I combined the first and second plans in the design. Corresponding to the front-to-back and up-and-down relationships modeled in the digital world, I designed a rough framework.
+#### In the construction of the physical scene  
+I have carried forward the preliminary ideas from the first week. Considering feasibility, I combined the first and second plans in the design. Corresponding to the front-to-back and up-and-down relationships modeled in the digital world, I designed a rough framework.
 
 I measured the different heights at which people sit, stand, and reach, and ultimately built a space measuring 1.35 * 1.8 * 1.8m. The vertical space is divided into three levels. Through group discussions, we concluded that the occlusion relationship from front to back also affects recognition, so the spatial relationship from front to back is progressive.  
 
