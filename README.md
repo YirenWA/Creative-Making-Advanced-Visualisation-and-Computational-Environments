@@ -30,20 +30,19 @@ Consider the playability of the space for people and its correspondence to the s
 
 
 ## WEEK2
-This week is mainly focused on determining the technical equipment to be used through group discussions and initiating preliminary designs for the two spaces.  
+This week was mainly focused on determining the technical equipment to be used through group discussions. And I also started with the initial design of the two spaces.   
 
-在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
-blender建模：  
+运用blender建模：  
 我构建了一个数字世界。在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。我选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
+在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定训练神经网络来运用摄像头识别人来进行交互。
 In the construction of the physical scene, I have carried forward the preliminary ideas from the first week. Considering feasibility, I combined the first and second plans in the design. Corresponding to the front-to-back and up-and-down relationships modeled in the digital world, I designed a rough framework.
 
 I measured the different heights at which people sit, stand, and reach, and ultimately built a space measuring 1.35 * 1.8 * 1.8m. The vertical space is divided into three levels. Through group discussions, we concluded that the occlusion relationship from front to back also affects recognition, so the spatial relationship from front to back is progressive.  
 
 ![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
-
-
+ 
 
 ## WEEK3
 本周主要是搭建了物理空间，并将数字空间部分进行了视觉上的美化。  
