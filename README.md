@@ -4,32 +4,35 @@
 本周主要是建立作品的背景，确立其主题，形式，内容。  
 
 Inspiration:  
-The inspiration comes from 日常生活。我通过观察发现：人们会在物理世界留下很多印记，人们的行为例如坐，踩，摸等会给物理世界带来很多可视的痕迹。这些痕迹大致是人体各个部位的轮廓形态。 但这些形态都会随着时间的变化逐渐消失。  
+The inspiration comes from 日常生活。我通过观察发现：人们会在物理世界留下很多印记，人们的行为例如坐，踩，摸等会给物理世界带来可视的痕迹。这些痕迹大致是人体各个部位的轮廓形态。 但这些形态都会随着时间的变化逐渐消失。  
 在那些无形的时刻，人们留下的印记能否凝结于时间？
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
+通过小组讨论确定了主题   
 
-确定了My topic is    
-
-About Work:
+About Work:  
 It is an interactive game installation.
-这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，我们的存在将被记录，记忆凝固成数码的印记。  
-通过物理空间的置景，来引导人们做出不一样的动作，在物理世界用身体去探索数字世界，在数字空间中留下印记，占满整个"世界“。印记也会随时间有所消散。  
-印记options：沙子，雪，泡沫，苔藓，藤蔓  
+这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，人们的存在将被记录，记忆凝固成数码的印记。  
+形式：通过物理空间的置景，来引导人们在真实世界用身体行为去探索数字世界，并在数字空间中留下印记。 在个世界中没有人，也没有人的影子。留存下的只有人的“印记”。
+但印记也会随时间有所消散，所以要在有限的无形时间内留下存在的印记。  
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
 Initial ideas for the Structure:
 数字世界场景构建初步构想  
-在物体的视觉上具有一定的超现实主义，画面里看似无关的物体都有连接。纯白的记忆世界，飘渺模糊。 并具有一定形式感的观念构图，正平视角。  
-物理世界的场景构建，绘制草图   
-对应数字空间的物理空间形式的草图（玩法）  
+印记options：  
+沙子，雪，泡沫，苔藓，藤蔓  
+在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 并具有一定形式感的观念构图，正平视角。  纯白的记忆世界，飘渺模糊。
+
+物理世界的场景构建（绘制草图）  
+思考人们在空间中的可玩性，能够对应数字空间的结构（玩法），像人间游乐场  
 ![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
 
 
 ## Week2
-本周主要是通过小组讨论确定使用的技术设备  
+本周主要是通过小组讨论确定使用的技术设备，并开始对两个空间进行初步设计  
 在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
-blender建模  
-我构建了一个数字世界
+blender建模：  
+我构建了一个数字世界  
+选用了什么构成了画面
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
 对应数字世界的物理场景建模构思（大致框架）  
