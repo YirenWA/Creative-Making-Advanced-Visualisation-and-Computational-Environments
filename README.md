@@ -14,9 +14,7 @@ In those intangible moments, can the imprints left by people condense within tim
 From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat  a sensory game about the theme.  
 
 About Work:  
-It is an interactive game installation.
-这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，人们的存在将被记录，记忆凝固成数码的印记。  
-形式：通过物理空间的置景，来引导人们在真实世界用身体行为去探索数字世界，并在数字空间中留下印记。 在个世界中没有人，也没有人的影子。留存下的只有人的“印记”。
+这是一个交互游戏装置。这是一个永恒的记忆世界，将人们的存在延续至虚拟而真实的数字空间。在那里，人们的存在将被记录，记忆凝固成数码的印记。形式：通过物理空间的置景，来引导人们在真实世界用身体行为去探索数字世界，并在数字空间中留下印记。 在个世界中没有人，也没有人的影子。留存下的只有人的“印记”。
 但印记也会随时间有所消散，所以要在有限的无形时间内留下存在的印记。  
 It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
 
