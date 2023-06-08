@@ -37,8 +37,10 @@ blender建模：
 我构建了一个数字世界。在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。我选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
-在物理场景的构造上，延续了第一周的初步想法，从可实现性上结合了第一个方案和第二个方案进行设计。对应前面数字世界建模的前后和上下关系设计了大致框架。（建模）    
-我丈量了人坐着，站着和伸手的不同高度，结合数字空间，最后构建了一个1.35*1.8*1.8m的空间。纵向空间一共分为了三层。通过小组讨论认为前后的遮挡关系也会影响识别，所以前后的空间关系上是一个递进的关系。
+In the construction of the physical scene, I have carried forward the preliminary ideas from the first week. Considering feasibility, I combined the first and second plans in the design. Corresponding to the front-to-back and up-and-down relationships modeled in the digital world, I designed a rough framework.
+
+I measured the different heights at which people sit, stand, and reach, and ultimately built a space measuring 1.35 * 1.8 * 1.8m. The vertical space is divided into three levels. Through group discussions, we concluded that the occlusion relationship from front to back also affects recognition, so the spatial relationship from front to back is progressive.  
+
 ![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
 
 
