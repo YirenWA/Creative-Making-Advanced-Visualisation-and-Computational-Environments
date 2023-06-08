@@ -20,7 +20,7 @@ However, these imprints will gradually fade with time, so it is essential to lea
 
 Initial ideas for the Structure:
 数字世界场景构建初步构想  
-在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 并具有一定形式感的观念构图，认为正平视角。  纯白的记忆世界，飘渺模糊。  
+具有一定形式感的观念构图，认为正平视角。纯白的记忆世界，飘渺模糊。  
 印记options：构成数字空间的材质要能够帮助参与者思考时间的渐变，以及它对世界的塑造。需要突显时间的流逝和对事物的影响。
 沙子，雪，泡沫，苔藓，藤蔓  
 
@@ -34,7 +34,7 @@ Initial ideas for the Structure:
 在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
 blender建模：  
 我构建了一个数字世界  
-选用了什么构成了画面
+在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
 对应数字世界的物理场景建模构思（大致框架）  
