@@ -23,21 +23,22 @@ Preliminary idea for Digital World Scene Construction: A conceptual visual compo
 The materials composing the digital space should assist participants in contemplating the gradual passage of time and its shaping influence on the world. It is important to highlight the flow of time and its impact on objects.    
 印记options：沙子，雪，泡沫，苔藓，藤蔓  
 
-物理世界的场景构建（绘制草图）  
-思考人们在空间中的可玩性，能够对应数字空间的结构（玩法），像人间游乐场  
+Physical space scene construction (sketching)  
+Consider the playability of the space for people and its correspondence to the structure of the digital space. Overall, it should resemble a "childlike" playground.  
+
 ![sketch](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/cf93bea0-e938-4b49-b10b-13644af1e356)
 
 
 ## WEEK2
-本周主要是通过小组讨论确定使用的技术设备，并开始对两个空间进行初步设计  
+This week is mainly focused on determining the technical equipment to be used through group discussions and initiating preliminary designs for the two spaces.  
+
 在小组讨论中，小组成员针对我提出的想法进行了技术上的答案，最终确定方案和方法。  
 blender建模：  
-我构建了一个数字世界  
-在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。 选用了什么构成了画面,
+我构建了一个数字世界。在物体的构建上具有一定的超现实主义，画面里看似无关的物体都有连接。我选用了什么构成了画面,
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
 
-在物理场景构造上，延续了第一周的初步想法，从可实现性上结合了第一个方案和第二个方案进行设计。对应前面数字世界建模的前后和上下关系设计了大致框架。    
-我丈量了人坐着，站着和伸手的不同高度，我构建了一个1.35*1.8*1.8m的空间。纵向空间上一共分为了三层。通过小组讨论认为前后关系的遮挡关系也会影响识别，所以结构上是一个递进的关系。
+在物理场景的构造上，延续了第一周的初步想法，从可实现性上结合了第一个方案和第二个方案进行设计。对应前面数字世界建模的前后和上下关系设计了大致框架。（建模）    
+我丈量了人坐着，站着和伸手的不同高度，结合数字空间，最后构建了一个1.35*1.8*1.8m的空间。纵向空间一共分为了三层。通过小组讨论认为前后的遮挡关系也会影响识别，所以前后的空间关系上是一个递进的关系。
 ![structure](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/744fef88-2d98-4f94-a036-de2fdc246bd3)
 
 
