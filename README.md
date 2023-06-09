@@ -53,12 +53,12 @@ I measured the different heights at which people sit, stand, and reach, and ulti
  
 
 ## WEEK3
-本周主要是搭建了物理空间，并将数字空间在unreal 进行了视觉上的美化。  
-购买计算切割材料  
-由于物理空间的复杂性和可玩性，所以要确保框架具有稳定结构，并在前后与上下空间的对应进行了测试
-![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
+This week, my main task was to set up the physical space and create Niagara effects, visual adjustments, and other work for the digital world in Unreal Engine.  
 
 物理场景搭建  
+我计算并购买了切割材料。由于物理空间的复杂性和可玩性，我要确保框架具有稳定结构，所以在前后与上下空间关系上进行了测试。  
+![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
+  
 unreal 特效（粒子做雪，物体mesh粒子，贴图texture绘图设计，地面/画面场景的设计）  
 问题：建模mesh的粒子特效，分布不均匀。 
 ![Niagara mesh？不均匀](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/8cc0b26e-cca7-4f08-bdf3-4d5d3321b207)
