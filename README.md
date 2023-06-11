@@ -55,11 +55,13 @@ I measured the different heights at which people sit, stand, and reach, and ulti
 ## WEEK3
 This week, my main task was to set up the physical space and create Niagara effects, visual adjustments, and other work for the digital world in Unreal Engine.  
 
-#### 物理场景搭建  
-我计算并购买了木材进行了切割。由于物理空间的复杂性和可玩性，我要确保框架具有稳定结构，所以在前后与上下空间关系上进行了测试。  
+#### Physics Scene Construction  
+I calculated and purchased wood for cutting. Due to the complexity and playability of the physical space, I wanted to ensure that the framework had a stable structure, so I conducted tests on the relationships between the front and back, as well as the upper and lower spaces.   
+
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
   
-#### unreal 画面效果制作
+#### unreal 画面效果制作  
+做物体碰撞静态网格Disintegration的粒子效果，来做人触碰空间的痕迹。
 用Niagara粒子做随风飘转的雪，营造画面效果
 物体mesh粒子，将我建的主体模型做其网格粒子。
 问题：起初，模型的网格粒子特效分布不均匀，我通过解决了这一问题。 
