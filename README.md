@@ -61,11 +61,15 @@ I calculated and purchased wood for cutting. Due to the complexity and playabili
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
   
 #### unreal 画面效果制作  
-做物体碰撞静态网格Disintegration的粒子效果，来做人触碰空间的痕迹。
-用Niagara粒子做随风飘转的雪，营造画面效果
+做物体碰撞静态网格Disintegration的粒子效果，来做人触碰空间的痕迹。  
+问题：制作过程中球体碰撞物体产生分解（Disintegration）的效果始终无法匹配上。  
+
 物体mesh粒子，将我建的主体模型做其网格粒子。
 问题：起初，模型的网格粒子特效分布不均匀，我通过解决了这一问题。 
 ![Niagara mesh？不均匀](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/8cc0b26e-cca7-4f08-bdf3-4d5d3321b207)
+
+用Niagara粒子做随风飘雪，营造画面效果
+
 贴图texture绘图设计，我还对痕迹的贴图进行了绘画设计  
 地面/画面场景的设计    
 
