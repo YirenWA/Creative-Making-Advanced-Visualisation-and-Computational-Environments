@@ -12,7 +12,7 @@ From this discovery in life, divergent thinking was employed. Through group disc
 ### About Work  
 It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
 
-Through the structure of physical spaces, participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space. In this digital world, there are no people or their shadows. Only the imprints of human remain.  
+Through the structure of physical spaces, _participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space._ In this digital world, there are no people or their shadows. Only the imprints of human remain.  
 However, these imprints will gradually fade with time, so it is essential to leave lasting imprints within the limited intangible time.  
 
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
