@@ -23,9 +23,9 @@ The materials composing the digital space should assist participants in contempl
 
 #### Imprint options  
 Choose a material to build the digital world in this project, which can be used for a series of game scenes in the future.   
-Snow: It accumulates and melts with time. Its seemingly soft texture carries weight when subjected to external pressure. When instantly squeezed, it gives a sense of frozen time, leaving behind the harder parts.  
-Sand: Time is like sand, taking shape when gathered and getting scattered by the wind as time passes.  
-Moss: It grows slowly, requiring time to form. Therefore, moss can symbolize the continuity of time, the accumulation of processes, and the sedimentation of years.  
+__Snow:__ It accumulates and melts with time. Its seemingly soft texture carries weight when subjected to external pressure. When instantly squeezed, it gives a sense of frozen time, leaving behind the harder parts.  
+__Sand:__ Time is like sand, taking shape when gathered and getting scattered by the wind as time passes.  
+__Moss:__ It grows slowly, requiring time to form. Therefore, moss can symbolize the continuity of time, the accumulation of processes, and the sedimentation of years.  
 Vines, bubbles, and more.  
 
 #### Physical space scene construction (sketch)  
