@@ -62,7 +62,11 @@ I calculated and purchased wood for cutting. Due to the complexity and playabili
   
 #### unreal 画面效果制作  
 做物体碰撞静态网格Disintegration的粒子效果，来做人触碰空间的痕迹。  
-问题：制作过程中球体碰撞物体产生分解（Disintegration）的效果始终无法匹配上。  
+问题：制作过程中球体碰撞物体产生粒子分解（Disintegration）的效果始终无法通过改变球体实现。  
+![碰撞粒子](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/530e2290-301e-4787-bbd9-a1ba3f84a392)
+
+![碰撞粒子1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/36e240e1-9678-4b84-a85d-4b0e0d40600e)
+
 
 物体mesh粒子，将我建的主体模型做其网格粒子。
 问题：起初，模型的网格粒子特效分布不均匀，我通过解决了这一问题。 
