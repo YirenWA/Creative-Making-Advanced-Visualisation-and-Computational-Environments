@@ -77,7 +77,7 @@ I calculated and purchased wood for cutting. Due to the complexity and playabili
 贴图texture绘图设计，我还对痕迹的贴图进行了绘画设计  
 地面/画面场景的设计    
 
-视觉效果调整美化
+视觉效果调整美化 透明化移动物体，改变物体影响高度，
 
 #### 摄像头识别（物理外接）
 
