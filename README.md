@@ -78,6 +78,8 @@ I calculated and purchased wood for cutting. Due to the complexity and playabili
 地面/画面场景的设计    
 
 视觉效果调整美化 透明化移动物体，改变物体影响高度，
+因为是顶部识别，所以只能影响前后的关系，上下的关系无法做，所以需要改变互动的物体所能触及的高度  
+但在以后的设计中，可以采用多个识别，并留有具体的痕迹。
 
 #### 摄像头识别（物理外接）
 
