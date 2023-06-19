@@ -7,13 +7,12 @@ The inspiration comes from daily life. Through observation, I have noticed that 
 In those intangible moments, can the imprints left by people condense within time?  
 
 ![trace](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c80dc11d-3893-411c-942d-ddccc92b23a0)
-From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat  a sensory game about the theme.  
+From this discovery in life, divergent thinking was employed. Through group discussions, we decided to creat a MR Experience Game about the theme.  
 
 ### About Work  
-It is an interactive game installation. This game represents an eternal memory world that extends human existence into a virtual and authentic digital space. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
+It is an MR game. We created an everlasting memorial worldthat extends human existence into a virtual and authentic digital space—a frozen testament to existence and the passage of time. There, the presence of individuals will be documented, and memories will solidify into digital imprints.  
 
-Through the structure of physical spaces, _participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space._ In this digital world, there are no people or their shadows. Only the imprints of human remain.  
-However, these imprints will gradually fade with time, so it is essential to leave lasting imprints within the limited intangible time.  
+Through the structure of physical spaces, _participants will be guided to explore the digital world using physical actions in the real world and leave imprints in the digital space._ In this digital world, there are no people. Only the imprints of human remain. However, these imprints will gradually fade with time, so it is essential to leave lasting imprints within the limited intangible time.  
 
 ![sketch2-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/97249aec-e613-4fab-beac-45d81dff4981)
 
@@ -37,12 +36,15 @@ Consider the playability of the space for people and its correspondence to the s
 ## WEEK2
 This week was mainly focused on determining the technical equipment to be used through group discussions. And I also started with the initial design of the two spaces.   
 
+### Define the game structure  
+
+In the group discussion, the team member provided technical solutions to my proposed idea, and we ultimately decided to train a neural network to utilize cameras for recognizing human interactions within Unreal Engine.  
+Our objective is to design an immersive playground that magnifies and commemorates the impact individuals have made. We have constructed a physical setting that mirrors a virtual world in terms of its structure and form. By deploying neural networks, we are able to track the positions of people in the real world and project their movements onto the virtual realm. This experimental mixed-reality game blends the realms of neural networks and reality. The aim for our players is to leave behind a multitude of captivating and significant traces within this interconnected world.   
+
 #### Using Blender for modeling  
 I created a digital world with a certain level of surrealism, capturing a sense of erosion over time. The composition includes elements such as buildings, screens, stairs, gates, curtains, and chairs, all closely related to human life. Everything in the scene can be floating, distorted, and seemingly unrelated objects, yet they are interconnected, forming a loop. This world resembles an unbalanced yet egalitarian amusement park for humans.  
 
 ![1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/9ab3f174-15e7-484a-8d7a-ad260e60d35e)
-
-In the group discussion, the team member provided technical solutions to my proposed idea, and we ultimately decided to train a neural network to utilize cameras for recognizing human interactions within Unreal Engine.  
 
 #### In the construction of the physical scene  
 I have carried forward the preliminary ideas from the first week. Considering feasibility, I combined the first and second plans in the design. Corresponding to the front-to-back and up-and-down relationships modeled in the digital world, I designed a rough framework.
