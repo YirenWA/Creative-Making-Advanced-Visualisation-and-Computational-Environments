@@ -1,4 +1,5 @@
-# Creative Making-Advanced Visualisation and Computational Environments
+# Creative Making-Advanced Visualisation and Computational Environments  
+Video Link: https://www.youtube.com/watch?v=oIYKefJnTX8
 ## WEEK1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
@@ -80,22 +81,29 @@ I created some weather effects with Niagara particles to create a visual impress
 
 ![B2](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/45b7bae1-b2c0-4b26-a982-18c4554a8c16)
 
+Mapping texture design. I also painted the texture design for the traces. (Not used in the end)  
 
-贴图texture绘图设计，我还对痕迹的贴图进行了绘画设计  
-地面/画面场景的设计    
+![贴图](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/e5f87b96-5194-46f1-a922-9443f3375040)
 
-视觉效果调整美化 透明化移动物体，改变物体影响高度，
-因为是顶部识别，所以只能影响前后的关系，上下的关系无法做，所以需要改变互动的物体所能触及的高度  
-但在以后的设计中，可以采用多个识别，并留有具体的痕迹。
+#### Neural Network (Work of team members)  
+For our project, the detection of people from top view is crucial as the camera is the only input that analyze the real-world scene and the position data for further interactions. As we have gained experience on deployment of neural network in game engine via previous projects, we chose to deploy a convolutional neural network as the detection algorithm. To load a neural network in Unreal Engine, we decided to use OpenCV library which can load various types of neural network via its DNN module.   
 
-#### 摄像头识别（物理外接）
+_Because it is a top recognition, it can only affect the relationship between front and back, the relationship between top and bottom cannot be done, so it is necessary to change the height at which the interacting objects can reach. However, in future designs, multiple recognition can be used and specific traces can be left._
 
-## WEEK4
-调试  
-拍摄  
-视频剪辑
+## WEEK4  
+This week is mainly about debugging and testing, and finally scene building and filming.  
 
-## Future
-多个材质场景
-识别不止头顶
-有各种姿势，具体的印记。
+![调整测试](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/0cd88e64-87cd-4e6a-82bc-2089da0fe594)  
+
+![搭建](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/b14df617-1941-4064-9cdf-4aff0ef537ff)  
+
+![测试_04008](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/6af94965-d812-4097-8292-08ee03b25868)
+
+## Game showcase
+
+![效果_01438](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/c9a3437b-f9b7-4b2b-939b-9898c3ee31a7)  
+
+![测试1_01874](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/67530650-3f46-4924-a368-a0a793f8b9ed)
+
+![效果_00399](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/01aeb312-4c27-4d6c-84da-cb750c63994a)
+
