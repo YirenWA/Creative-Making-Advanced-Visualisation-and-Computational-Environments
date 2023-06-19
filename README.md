@@ -1,5 +1,5 @@
 # Creative Making-Advanced Visualisation and Computational Environments  
-Video Link: https://www.youtube.com/watch?v=oIYKefJnTX8
+"CHRONOSCAPE" Video Link: https://www.youtube.com/watch?v=oIYKefJnTX8
 ## WEEK1
 This week is primarily focused on establishing the background, theme, content, and form of the artwork.
 
