@@ -62,19 +62,24 @@ I calculated and purchased wood for cutting. Due to the complexity and playabili
 
 ![process-01](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/028f0b38-cee0-4e04-88d5-63d23ca4274e)
   
-#### unreal 画面效果制作  
-做物体碰撞静态网格Disintegration的粒子效果，来做人触碰空间的痕迹。  
-问题：制作过程中球体碰撞物体产生粒子分解（Disintegration）的效果始终无法通过改变球体实现。  
+#### Unreal effects creation    
+I made the particle effect of object collision static mesh Disintegration to make the traces of people touching space.   
+We use a displacement shader graph to overlap the original material, thus create a transparent displacement effect. We placed a ball in the center to indicate the position, but we made it transparent. We also use the displacement map as the particle map, thus particles can emit from the edges of the displaced area and also light up the entire scene.  
+
 ![碰撞粒子](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/530e2290-301e-4787-bbd9-a1ba3f84a392)
 
 ![碰撞粒子1](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/36e240e1-9678-4b84-a85d-4b0e0d40600e)
 
 
-物体mesh粒子，将我建的主体模型做其网格粒子。
-问题：起初，模型的网格粒子特效分布不均匀，我通过勾选支持均匀分布采样（support （GPU） uniformly distributed sampling）解决了这一问题。 
+I made the main model its mesh particles to enrich the visual effect.  
+Problem: Initially, the model's mesh particles were unevenly distributed, which I solved by checking the box to support (GPU) uniformly distributed sampling. 
+
 ![Niagara mesh？不均匀](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/8cc0b26e-cca7-4f08-bdf3-4d5d3321b207)
 
-用Niagara粒子做随风飘雪，营造画面效果
+I created some weather effects with Niagara particles to create a visual impression.  
+
+![B2](https://github.com/YirenWA/Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/119879041/45b7bae1-b2c0-4b26-a982-18c4554a8c16)
+
 
 贴图texture绘图设计，我还对痕迹的贴图进行了绘画设计  
 地面/画面场景的设计    
